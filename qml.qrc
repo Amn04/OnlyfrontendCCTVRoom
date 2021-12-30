@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Screenshot 2021-10-29 220910.png</file>
+        <file>beep-01a.wav</file>
+        <file>Control-room.qml</file>
+        <file>symbols/Rotating_earth_(large).gif</file>
+        <file>symbols/imag1.webp</file>
+        <file>symbols/imag2.webp</file>
+        <file>symbols/imag5.webp</file>
+        <file>symbols/image3.gif</file>
+        <file>symbols/img4.webp</file>
+        <file>symbols/img6.webp</file>
+        <file>symbols/img7.webp</file>
+        <file>symbols/img8.webp</file>
+        <file>symbols/img9.webp</file>
+        <file>symbols/img10.webp</file>
+        <file>symbols/img12.webp</file>
+        <file>symbols/img13.webp</file>
+        <file>symbols/img14.webp</file>
+        <file>symbols/viode.avi</file>
+    </qresource>
+</RCC>
